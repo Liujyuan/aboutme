@@ -27,6 +27,7 @@ I'm Leheng Sheng (盛乐恒), a second year M.S. student at Tsinghua University,
       2022.9 - <br>
       School of Economics and Management<br>
       Pursuing M.S. degree in Finance (Fintech)<br>
+      GPA: 3.93/4.0 Rank: 10/121<br>
       </p>
     </div>
   </div>
@@ -57,6 +58,7 @@ I'm Leheng Sheng (盛乐恒), a second year M.S. student at Tsinghua University,
       2018.9 - 2022.6<br>
       Chien-Shiung Wu College<br>
       B.S. degree in Computer Science and Technology<br>
+      GPA: 3.92/4.0 (91.2/100) Rank: 5/123<br>
     </p>
     </div>
   </div>
