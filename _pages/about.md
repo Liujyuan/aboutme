@@ -57,7 +57,7 @@ I'm Leheng Sheng (盛乐恒), a second year M.S. student at <a href="https://www
     <div style="flex: 5; padding-left: 20px;">
       <p style="margin-bottom: 50px;"><strong>Southeast University</strong><br>
       2018.9 - 2022.6<br>
-      Chien-Shiung Wu College<br>
+      Chien-Shiung Wu College <span style="color: red;">(Honors College)</span><br>
       B.S. degree in Computer Science and Technology<br>
       GPA: 3.92/4.0 (91.2/100) Rank: 5/123<br>
     </p>
@@ -82,11 +82,11 @@ I'm Leheng Sheng (盛乐恒), a second year M.S. student at <a href="https://www
 
 
 # Honors and Awards
-- Second Class Academic Scholarship at Tsinghua University (Top 10%)
--	National Scholarship at Southeast University (Top 3%)   
-- Outstanding Graduate (Top 6%)
+- Second Class Academic Scholarship at Tsinghua University <strong>(Top 10%)</strong>
+-	National Scholarship at Southeast University <strong>(Top 3%)</strong>
+- Outstanding Graduate <strong>(Top 6%)</strong>
 - Outstanding Student Leader of Jiangsu Province
 -	Grand Prize nomination (F prize) for the American College Student Mathematical Contest in Modeling
-- Model of Merit Student of Southeast University (Top 1%)
+- Model of Merit Student of Southeast University <strong>(Top 1%)</strong>
 
 <!-- {% include base_path %} -->
