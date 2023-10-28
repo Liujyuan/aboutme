@@ -8,15 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I'm Leheng Sheng (盛乐恒), a second year M.S. student at Tsinghua University. Currently, my research interests focus on LLM-based autonomous agents, recommender systems, and fintech.
+I'm Leheng Sheng (盛乐恒), a second year M.S. student at Tsinghua University, majoring in Fintech. Before that, I obtained the B.S. degree in Computer Science at Southeast University. Currently, my research interests focus on LLM-based autonomous agents, recommender systems, and fintech.
 
-# Honors and Awards
-- Second Class Academic Scholarship at Tsinghua University (Top 10%)
--	National Scholarship at Southeast University (Top 3%)   
-- Outstanding Graduate (Top 6%)
-- Outstanding Student Leader of Jiangsu Province
--	Grand Prize nomination (F prize) for the American College Student Mathematical Contest in Modeling
-- Model of Merit Student of Southeast University (Top 1%)
 
 # Education Experiences
 
@@ -83,4 +76,12 @@ I'm Leheng Sheng (盛乐恒), a second year M.S. student at Tsinghua University.
 
 </div>
 
-{% include base_path %}
+# Honors and Awards
+- Second Class Academic Scholarship at Tsinghua University (Top 10%)
+-	National Scholarship at Southeast University (Top 3%)   
+- Outstanding Graduate (Top 6%)
+- Outstanding Student Leader of Jiangsu Province
+-	Grand Prize nomination (F prize) for the American College Student Mathematical Contest in Modeling
+- Model of Merit Student of Southeast University (Top 1%)
+
+<!-- {% include base_path %} -->
