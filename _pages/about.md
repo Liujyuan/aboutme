@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm Leheng Sheng (盛乐恒), a second year M.S. student at Tsinghua University. 
+I'm Leheng Sheng (盛乐恒), a second year M.S. student at Tsinghua University. Currently, my research interests focus on LLM-based autonomous agents, recommender systems, and fintech.
 
 # Education Experiences
 
@@ -74,3 +74,5 @@ I'm Leheng Sheng (盛乐恒), a second year M.S. student at Tsinghua University.
   </div>
 
 </div>
+
+{% include base_path %}
