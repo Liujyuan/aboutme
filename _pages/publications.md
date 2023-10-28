@@ -29,7 +29,6 @@ An Zhang\*, **Leheng Sheng\***, Yuxin Chen\*, Hao Li, Yang Deng, Xiang Wang<sup>
     <img src="../paper_imgs/BrainNetFormer.png" style="width: 100%; height: auto;">
   </div>
   <div style="flex: 2; padding-left: 20px;">
-    <br>
     <p style="margin-bottom: 20px;"><strong>On Generative Agents in Recommendation</strong><br>
     An Zhang*, <strong>Leheng Sheng*</strong>, Yuxin Chen*, Hao Li, Yang Deng, Xiang Wang†, Tat-Seng Chua<br>
     <strong>Arxiv, 2023.10</strong><br>
