@@ -43,6 +43,7 @@ I'm Leheng Sheng (盛乐恒), a second year M.S. student at Tsinghua University,
       2023.6 - 2023.12<br>
       School of Computing<br>
       Visiting Student<br>
+      NExT++ Research Center, supervised by Prof. Tat-Seng Chua<br>
       </p>
     </div>
   </div>
