@@ -1,7 +1,7 @@
 ---
-permalink: /
+layout: archive
 title: "Publications"
-excerpt: "Publications"
+permalink: /publications/
 author_profile: true
 ---
 
@@ -17,7 +17,7 @@ Arxiv, 2023.10
 
 
 
-<!-- {% if author.googlescholar %}
+{% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
@@ -25,4 +25,4 @@ Arxiv, 2023.10
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
-{% endfor %} -->
+{% endfor %}
