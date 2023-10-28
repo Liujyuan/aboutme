@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-* denotes co-first author and <sup>&#8224;</sup> denotes corresponding author
+\* denotes co-first author and <sup>&#8224;</sup> denotes corresponding author
 
 <div style="display: flex; flex-direction: column;">
 
