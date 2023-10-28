@@ -7,7 +7,7 @@ author_profile: true
 
 * denotes co-first author and <sup>&#8224;</sup> denotes corresponding author
 
-<img src='../paper_imgs/AdvInfoNCE.png' style='float:left;width:280px;height:160px;margin-left:20px;margin-right:20px'/>
+<img src='../paper_imgs/Agent4Rec.png' style='float:left;width:280px;height:160px;margin-left:20px;margin-right:20px'/>
 **On Generative Agents in Recommendation**  
 An Zhang\*, **Leheng Sheng\***, Yuxin Chen\*, Hao Li, Yang Deng, Xiang Wang<sup>&#8224;</sup>, Tat-Seng Chua  
 **Arxiv, 2023.10** [[Paper](https://arxiv.org/pdf/2310.10108.pdf)] [[Arxiv](https://arxiv.org/abs/2310.10108)] [[Code](https://github.com/LehengTHU/Agent4Rec)]  
