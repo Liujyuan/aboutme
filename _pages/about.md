@@ -87,7 +87,8 @@ I'm Leheng Sheng (盛乐恒), a second year M.S. student at <a href="https://www
 -	National Scholarship at Southeast University <strong>(Top 3%)</strong>
 - Outstanding Graduate <strong>(Top 6%)</strong>
 - Outstanding Student Leader of Jiangsu Province
--	Grand Prize nomination (F prize) for the American College Student Mathematical Contest in Modeling
+-	<strong>Finalist prize</strong> in the Interdisciplinary Contest in Modeling (<a href="https://www.comap.com/contests/mcm-icm">ICM</a>), 2020
 - Model of Merit Student of Southeast University <strong>(Top 1%)</strong>
 
 <!-- {% include base_path %} -->
+
