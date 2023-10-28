@@ -13,7 +13,7 @@ I'm Leheng Sheng (盛乐恒), a second year M.S. student at Tsinghua University,
 
 # Education Experiences
 
-<div style="display: flex; flex-direction: column;">
+<div style="display: flex; flex-direction: column; margin-bottom: 50px;">
 
   <!-- 第一组图片和段落 -->
   <div style="display: flex; align-items: flex-start;">
