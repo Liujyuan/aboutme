@@ -11,6 +11,10 @@ redirect_from:
 I'm **Leheng Sheng (盛乐恒)**, a second year M.S. student at <a href="https://www.tsinghua.edu.cn/en/">Tsinghua University</a>, majoring in Fintech. Before that, I obtained the B.S. degree in Computer Science at <a href="https://www.seu.edu.cn/english/main.htm">Southeast University</a>. Currently, my research interests focus on LLM-based autonomous agents, recommender systems, and fintech.  
 **Email:** chenglh22@mails.tsinghua.edu.cn
 
+# News
+- [Sep 2023] One co-first-authored paper is accepted by **NeurIPS 2023**. 🎉
+- [Jun 2023] I start my visiting at **NUS NExT++ Lab**! 😄
+- [Feb 2023] One first-authored paper is accepted by **ICASSP 2023**. 🎉
 
 # Education Experiences
 
