@@ -32,12 +32,12 @@ An Zhang\*, **Leheng Sheng\***, Yuxin Chen\*, Hao Li, Yang Deng, Xiang Wang<sup>
     <p><strong>Empowering Collaborative Filtering with Principled Adversarial Contrastive Loss</strong><br>
     An Zhang*, <strong>Leheng Sheng*</strong>, Zhibo Cai†, Xiang Wang, Tat-Seng Chua<br>
     <strong>NeurIPS, 2023 (CCF A)</strong><br>
-    <a href="https://neurips.cc/virtual/2023/poster/71149">[Paper]</a> <a href="https://github.com/LehengTHU/AdvInfoNCE">[Code]</a></p><br>
+    <a href="https://neurips.cc/virtual/2023/poster/71149">[Paper]</a> <a href="https://github.com/LehengTHU/AdvInfoNCE">[Code]</a></p>
     
     <p><strong>BrainNetFormer: Decoding Brain Cognitive States with Spatial-Temporal Cross Attention</strong><br>
     <strong>Leheng Sheng</strong>, Wehan Wang, Zhiyi Shi, Jichao Zhan, Youyong Kong†<br>
     <strong>ICASSP, 2023 (CCF B)</strong><br>
-    <a href="https://ieeexplore.ieee.org/abstract/document/10094655">[Paper]</a></p><br>
+    <a href="https://ieeexplore.ieee.org/abstract/document/10094655">[Paper]</a></p>
     
     <p><strong>On Generative Agents in Recommendation</strong><br>
     An Zhang*, <strong>Leheng Sheng*</strong>, Yuxin Chen*, Hao Li, Yang Deng, Xiang Wang†, Tat-Seng Chua<br>
