@@ -18,7 +18,7 @@ I'm Leheng Sheng (盛乐恒), a second year M.S. student at Tsinghua University.
   <div style="display: flex; align-items: flex-start;">
     <!-- 图片部分（1/3） -->
     <div style="flex: 1;">
-      <img src="../images/about/qinghua.png" style="width: 100%; height: auto;">
+      <img src="../paper_imgs/agent4rec.png" style="width: 100%; height: auto;">
     </div>
     <!-- 文字部分（2/3） -->
     <div style="flex: 2; padding-left: 20px;">
