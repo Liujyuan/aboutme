@@ -57,7 +57,7 @@ I'm Leheng Sheng (盛乐恒), a second year M.S. student at <a href="https://www
     <div style="flex: 5; padding-left: 20px;">
       <p style="margin-bottom: 50px;"><strong>Southeast University</strong><br>
       2018.9 - 2022.6<br>
-      Chien-Shiung Wu College <span style="color: red;">(Honors College)</span><br>
+      Chien-Shiung Wu College <span style="color: #AC1F1F;">(Honors College)</span><br>
       B.S. degree in Computer Science and Technology<br>
       GPA: 3.92/4.0 (91.2/100) Rank: 5/123<br>
     </p>
