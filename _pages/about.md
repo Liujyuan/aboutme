@@ -41,9 +41,9 @@ I'm Leheng Sheng (盛乐恒), a second year M.S. student at Tsinghua University,
     <div style="flex: 5; padding-left: 20px;">
       <p style="margin-bottom: 50px;"><strong>National University of Singapore</strong><br>
       2023.6 - 2023.12<br>
-      School of Computing<br>
+      School of Computing, NExT++ Research Center<br>
       Visiting Student<br>
-      NExT++ Research Center, supervised by Prof. <a href="https://www.chuatatseng.com/">Tat-Seng Chua</a> and Post Doc <a href="https://anzhang314.github.io/">An Zhang</a> <br>
+      Supervised by Prof. <a href="https://www.chuatatseng.com/">Tat-Seng Chua</a> and Post Doc <a href="https://anzhang314.github.io/">An Zhang</a> <br>
       </p>
     </div>
   </div>
