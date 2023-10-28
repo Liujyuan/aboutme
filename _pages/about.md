@@ -91,6 +91,6 @@ I'm **Leheng Sheng (盛乐恒)**, a second year M.S. student at <a href="https:/
   
   
   
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=200&t=tt&d=NgWdSqXOPgD200kcey44_LhAKW6WH0tqNVGK5F3SFxs&co=2d90ad&cmo=e27b7b&cmn=ff7f3b'></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=NgWdSqXOPgD200kcey44_LhAKW6WH0tqNVGK5F3SFxs&co=2d90ad&cmo=e27b7b&cmn=ff7f3b'></script>
 <!-- {% include base_path %} -->
 
