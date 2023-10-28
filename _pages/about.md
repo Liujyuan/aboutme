@@ -18,7 +18,7 @@ I'm Leheng Sheng (盛乐恒), a second year MS student at Tsinghua University.
   <div style="display: flex; align-items: flex-start;">
     <!-- 图片部分（1/3） -->
     <div style="flex: 1;">
-      <img src="../images/about/qinghua.png" style="width: 100%; height: auto;">
+      <img src="../paper_imgs/qinghua.png" style="width: 100%; height: auto;">
     </div>
     <!-- 文字部分（2/3） -->
     <div style="flex: 5; padding-left: 20px;">
@@ -33,7 +33,7 @@ I'm Leheng Sheng (盛乐恒), a second year MS student at Tsinghua University.
   <div style="display: flex; align-items: flex-start;">
     <!-- 图片部分（1/3） -->
     <div style="flex: 1;">
-      <img src="../images/about/nus.png" style="width: 100%; height: auto;">
+      <img src="../paper_imgs/nus.png" style="width: 100%; height: auto;">
     </div>
     <!-- 文字部分（2/3） -->
     <div style="flex: 5; padding-left: 20px;">
@@ -48,7 +48,7 @@ I'm Leheng Sheng (盛乐恒), a second year MS student at Tsinghua University.
   <div style="display: flex; align-items: flex-start;">
     <!-- 图片部分（1/3） -->
     <div style="flex: 1;">
-      <img src="../images/about/dongnan.png" style="width: 100%; height: auto;">
+      <img src="../paper_imgs/dongnan.png" style="width: 100%; height: auto;">
     </div>
     <!-- 文字部分（2/3） -->
     <div style="flex: 5; padding-left: 20px;">
@@ -63,7 +63,7 @@ I'm Leheng Sheng (盛乐恒), a second year MS student at Tsinghua University.
   <div style="display: flex; align-items: flex-start;">
     <!-- 图片部分（1/3） -->
     <div style="flex: 1;">
-      <img src="../images/about/bashu.png" style="width: 100%; height: auto;">
+      <img src="../paper_imgs/bashu.png" style="width: 100%; height: auto;">
     </div>
     <!-- 文字部分（2/3） -->
     <div style="flex: 5; padding-left: 20px;">
