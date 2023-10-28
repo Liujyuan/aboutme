@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm Leheng Sheng (盛乐恒), a second year M.S. student at Tsinghua University, majoring in Fintech. Before that, I obtained the B.S. degree in Computer Science at Southeast University. Currently, my research interests focus on LLM-based autonomous agents, recommender systems, and fintech.
+I'm Leheng Sheng (盛乐恒), a second year M.S. student at <a href="https://www.tsinghua.edu.cn/en/">Tsinghua University</a>, majoring in Fintech. Before that, I obtained the B.S. degree in Computer Science at <a href="https://www.seu.edu.cn/english/main.htm">Southeast University</a>. Currently, my research interests focus on LLM-based autonomous agents, recommender systems, and fintech.
 
 
 # Education Experiences
