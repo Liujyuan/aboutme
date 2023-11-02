@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Education Experiences"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,7 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-# Education Experiences
 
 <div style="display: flex; flex-direction: column; margin-bottom: 50px;">
 
