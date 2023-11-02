@@ -9,51 +9,79 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+# Education Experiences
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+<div style="display: flex; flex-direction: column; margin-bottom: 50px;">
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+  <!-- 第一组图片和段落 -->
+  <div style="display: flex; align-items: flex-start;">
+    <!-- 图片部分（1/3） -->
+    <div style="flex: 1;">
+      <img src="images/about/qinghua.png" style="width: 100%; height: auto;">
+    </div>
+    <!-- 文字部分（2/3） -->
+    <div style="flex: 6; padding-left: 20px;">
+      <p style="margin-bottom: 50px;"><strong>Tsinghua University</strong><br>
+      2022.9 - <br>
+      School of Economics and Management<br>
+      Pursuing M.S. degree in Finance (Fintech)<br>
+      GPA: 3.93/4.0 Rank: 10/121<br>
+      </p>
+    </div>
+  </div>
+  <!-- 第二组图片和段落 -->
+  <div style="display: flex; align-items: flex-start;">
+    <!-- 图片部分（1/3） -->
+    <div style="flex: 1;">
+      <img src="images/about/nus.png" style="width: 100%; height: auto;">
+    </div>
+    <!-- 文字部分（2/3） -->
+    <div style="flex: 6; padding-left: 20px;">
+      <p style="margin-bottom: 50px;"><strong>National University of Singapore</strong><br>
+      2023.6 - 2023.12<br>
+      School of Computing, NExT++ Research Center<br>
+      Visiting Student<br>
+      Supervised by Prof. <a href="https://www.chuatatseng.com/">Tat-Seng Chua</a> and Dr. <a href="https://anzhang314.github.io/">An Zhang</a> <br>
+      </p>
+    </div>
+  </div>
+  <!-- 第三组图片和段落 -->
+  <div style="display: flex; align-items: flex-start;">
+    <!-- 图片部分（1/3） -->
+    <div style="flex: 1;">
+      <img src="images/about/dongnan.png" style="width: 100%; height: auto;">
+    </div>
+    <!-- 文字部分（2/3） -->
+    <div style="flex: 6; padding-left: 20px;">
+      <p style="margin-bottom: 50px;"><strong>Southeast University</strong><br>
+      2018.9 - 2022.6<br>
+      Chien-Shiung Wu College <span style="color: #AC1F1F;">(Honors College)</span><br>
+      B.S. degree in Computer Science and Technology<br>
+      GPA: 3.92/4.0 (91.2/100) Rank: 5/123<br>
+    </p>
+    </div>
+  </div>
+  <!-- 第四组图片和段落 -->
+  <div style="display: flex; align-items: flex-start;">
+    <!-- 图片部分（1/3） -->
+    <div style="flex: 1;">
+      <img src="images/about/bashu.png" style="width: 100%; height: auto;">
+    </div>
+    <!-- 文字部分（2/3） -->
+    <div style="flex: 6; padding-left: 20px;">
+      <p style="margin-bottom: 50px;"><strong>Bashu Secondary School</strong><br>
+      2015.9 - 2018.6<br>
+    </p>
+    </div>
+  </div>
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+</div>
+
+
+# Honors and Awards
+- Second Class Academic Scholarship at Tsinghua University <strong>(Top 10%)</strong>
+-	National Scholarship at Southeast University <strong>(Top 3%)</strong>
+- Outstanding Graduate <strong>(Top 6%)</strong>
+- Outstanding Student Leader of Jiangsu Province
+-	<strong>Finalist prize</strong> at the Interdisciplinary Contest in Modeling (<a href="https://www.comap.com/contests/mcm-icm">ICM</a>), 2020
+- Model of Merit Student of Southeast University <strong>(Top 1%)</strong>
