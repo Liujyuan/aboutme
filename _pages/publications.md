@@ -18,9 +18,9 @@ author_profile: true
     <!-- 文字部分（2/3） -->
     <div style="flex: 2; padding-left: 20px;">
       <p style="margin-bottom: 50px;"><strong>On Generative Agents in Recommendation</strong><br>
-      <span style="font-size: 14px;">An Zhang*, <strong>Leheng Sheng*</strong>, Yuxin Chen*, Hao Li, Yang Deng, Xiang Wang†, Tat-Seng Chua</span><br>
+      <span style="font-size: 14px;">An Zhang*, Yuxin Chen*, <strong>Leheng Sheng*</strong>, Hao Li, Yang Deng, Xiang Wang†, Tat-Seng Chua</span><br>
       <span style="font-size: 14px; font-family: 'Times New Roman';"><i>-- LLM-based agents can behave like human users!</i></span><br>
-    <span style="font-size: 14px; "><strong>Arxiv, 2023.10</strong> &nbsp;&nbsp; <a href="https://arxiv.org/pdf/2310.10108.pdf">[Paper]</a> <a href="https://arxiv.org/abs/2310.10108">[Arxiv]</a> <a href="https://github.com/LehengTHU/Agent4Rec">[Code]</a></span>
+    <span style="font-size: 14px; "><strong>SIGIR, 2024 (CCF A)</strong> &nbsp;&nbsp; <a href="https://arxiv.org/pdf/2310.10108.pdf">[Paper]</a> <a href="https://arxiv.org/abs/2310.10108">[Arxiv]</a> <a href="https://github.com/LehengTHU/Agent4Rec">[Code]</a></span>
       </p>
     </div>
   </div>
