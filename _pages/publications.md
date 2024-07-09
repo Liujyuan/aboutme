@@ -18,7 +18,7 @@ author_profile: true
     <!-- 文字部分（2/3） -->
     <div style="flex: 2; padding-left: 20px;">
       <p style="margin-bottom: 50px;"><strong>Language Models Encode Collaborative Signals in Recommendation</strong><br>
-      <span style="font-size: 14px;"> <strong>Leheng Sheng*</strong>, An Zhang†, Yi Zhang, Yuxin Chen, Xiang Wang, Tat-Seng Chua</span><br>
+      <span style="font-size: 14px;"> <strong>Leheng Sheng</strong>, An Zhang†, Yi Zhang, Yuxin Chen, Xiang Wang, Tat-Seng Chua</span><br>
       <span style="font-size: 14px; font-family: 'Times New Roman';"><i>-- Towards the homomorphism between language and recommendation spaces!</i></span><br>
     <span style="font-size: 14px; "><strong>Arxiv</strong> &nbsp;&nbsp; <a href="https://arxiv.org/pdf/2407.05441.pdf">[Paper]</a> <a href="https://arxiv.org/pdf/2407.05441">[Arxiv]</a> <a href="https://github.com/LehengTHU/AlphaRec">[Code]</a></span>
       </p>
