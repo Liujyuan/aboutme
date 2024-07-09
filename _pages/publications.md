@@ -13,12 +13,27 @@ author_profile: true
   <div style="display: flex; align-items: flex-start;">
     <!-- 图片部分（1/3） -->
     <div style="flex: 1;">
+      <img src="../paper_imgs/AlphaRec.png" style="width: 100%; height: auto;">
+    </div>
+    <!-- 文字部分（2/3） -->
+    <div style="flex: 2; padding-left: 20px;">
+      <p style="margin-bottom: 50px;"><strong>Language Models Encode Collaborative Signals in Recommendation</strong><br>
+      <span style="font-size: 14px;"> <strong>Leheng Sheng*</strong>, An Zhang†, Yi Zhang, Yuxin Chen, Xiang Wang, Tat-Seng Chua</span><br>
+      <span style="font-size: 14px; font-family: 'Times New Roman';"><i>-- Towards the homomorphism between language and recommendation spaces!</i></span><br>
+    <span style="font-size: 14px; "><strong>Arxiv</strong> &nbsp;&nbsp; <a href="https://arxiv.org/pdf/2407.05441.pdf">[Paper]</a> <a href="https://arxiv.org/pdf/2407.05441">[Arxiv]</a> <a href="https://github.com/LehengTHU/AlphaRec">[Code]</a></span>
+      </p>
+    </div>
+  </div>
+  <!-- 第一组图片和段落 -->
+  <div style="display: flex; align-items: flex-start;">
+    <!-- 图片部分（1/3） -->
+    <div style="flex: 1;">
       <img src="../paper_imgs/agent4rec.png" style="width: 100%; height: auto;">
     </div>
     <!-- 文字部分（2/3） -->
     <div style="flex: 2; padding-left: 20px;">
       <p style="margin-bottom: 50px;"><strong>On Generative Agents in Recommendation</strong><br>
-      <span style="font-size: 14px;">An Zhang*, Yuxin Chen*, <strong>Leheng Sheng*</strong>, Hao Li, Yang Deng, Xiang Wang†, Tat-Seng Chua</span><br>
+      <span style="font-size: 14px;">An Zhang*, Yuxin Chen*, <strong>Leheng Sheng*</strong>, Xiang Wang†, Tat-Seng Chua</span><br>
       <span style="font-size: 14px; font-family: 'Times New Roman';"><i>-- LLM-based agents can behave like human users!</i></span><br>
     <span style="font-size: 14px; "><strong>SIGIR, 2024 (CCF A)</strong> &nbsp;&nbsp; <a href="https://arxiv.org/pdf/2310.10108.pdf">[Paper]</a> <a href="https://arxiv.org/abs/2310.10108">[Arxiv]</a> <a href="https://github.com/LehengTHU/Agent4Rec">[Code]</a></span>
       </p>

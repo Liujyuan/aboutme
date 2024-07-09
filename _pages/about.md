@@ -8,11 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I'm **Leheng Sheng (盛乐恒)**, a second year M.S. student at <a href="https://www.tsinghua.edu.cn/en/">Tsinghua University</a>, majoring in Fintech. Before that, I obtained the B.S. degree in Computer Science at <a href="https://www.seu.edu.cn/english/main.htm">Southeast University</a>. Currently, my research interests focus on **LLM-based Autonomous Agents, Recommender Systems, and Fintech**.  
+<!-- I'm **Leheng Sheng (盛乐恒)**, a second year M.S. student at <a href="https://www.tsinghua.edu.cn/en/">Tsinghua University</a>, majoring in Fintech. Before that, I obtained the B.S. degree in Computer Science at <a href="https://www.seu.edu.cn/english/main.htm">Southeast University</a>. Currently, my research interests focus on **LLM-based Autonomous Agents, Recommender Systems, and Fintech**.  
+**Email:** chenglh22@mails.tsinghua.edu.cn -->
+
+I'm **Leheng Sheng (盛乐恒)**, an incoming PhD student at <a href="https://nus.edu.sg/"> National University of Singapore</a>. Before that, I obtained the M.S. degree in Finance at <a href="https://www.tsinghua.edu.cn/en/">Tsinghua University</a>, and obtained the B.S. degree in Computer Science at <a href="https://www.seu.edu.cn/english/main.htm">Southeast University</a>. Currently, my research interests focus on **Large Language Model, Recommender Systems, and Fintech**.  
 **Email:** chenglh22@mails.tsinghua.edu.cn
 
 # News
-- [Sep 2023] One co-first-authored paper is accepted by **SIGIR 2024**. 🎉
+- [Mar 2024] One co-first-authored paper is accepted by **SIGIR 2024**. 🎉
 - [Sep 2023] One co-first-authored paper is accepted by **NeurIPS 2023**. 🎉
 - [Jun 2023] I start my visiting at **NUS NExT++ Lab**! 😄
 - [Feb 2023] One first-authored paper is accepted by **ICASSP 2023**. 🎉
