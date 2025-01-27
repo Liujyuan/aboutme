@@ -15,6 +15,7 @@ I'm **Leheng Sheng (盛乐恒)**, a first year Ph.D. student at <a href="https:/
 **Email:** chenglh22@mails.tsinghua.edu.cn
 
 # News
+- [Jan 2025] One first-authored paper is accepted by **ICLR 2025**. 🎉
 - [Mar 2024] One co-first-authored paper is accepted by **SIGIR 2024**. 🎉
 - [Sep 2023] One co-first-authored paper is accepted by **NeurIPS 2023**. 🎉
 - [Jun 2023] I start my visiting at **NUS NExT++ Lab**! 😄

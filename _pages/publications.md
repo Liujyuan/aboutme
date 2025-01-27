@@ -17,10 +17,10 @@ author_profile: true
     </div>
     <!-- 文字部分（2/3） -->
     <div style="flex: 2; padding-left: 20px;">
-      <p style="margin-bottom: 50px;"><strong>Language Models Encode Collaborative Signals in Recommendation</strong><br>
+      <p style="margin-bottom: 50px;"><strong>Language Representations Can be What Recommenders Need: Findings and Potentials</strong><br>
       <span style="font-size: 14px;"> <strong>Leheng Sheng</strong>, An Zhang†, Yi Zhang, Yuxin Chen, Xiang Wang, Tat-Seng Chua</span><br>
       <span style="font-size: 14px; font-family: 'Times New Roman';"><i>-- Towards the homomorphism between language and recommendation spaces!</i></span><br>
-    <span style="font-size: 14px; "><strong>Arxiv</strong> &nbsp;&nbsp; <a href="https://arxiv.org/pdf/2407.05441.pdf">[Paper]</a> <a href="https://arxiv.org/pdf/2407.05441">[Arxiv]</a> <a href="https://github.com/LehengTHU/AlphaRec">[Code]</a></span>
+    <span style="font-size: 14px; "><strong>ICLR, 2024</strong> &nbsp;&nbsp; <a href="https://arxiv.org/pdf/2407.05441.pdf">[Paper]</a> <a href="https://arxiv.org/pdf/2407.05441">[Arxiv]</a> <a href="https://github.com/LehengTHU/AlphaRec">[Code]</a></span>
       </p>
     </div>
   </div>
@@ -35,7 +35,7 @@ author_profile: true
       <p style="margin-bottom: 50px;"><strong>On Generative Agents in Recommendation</strong><br>
       <span style="font-size: 14px;">An Zhang*, Yuxin Chen*, <strong>Leheng Sheng*</strong>, Xiang Wang†, Tat-Seng Chua</span><br>
       <span style="font-size: 14px; font-family: 'Times New Roman';"><i>-- LLM-based agents can behave like human users!</i></span><br>
-    <span style="font-size: 14px; "><strong>SIGIR, 2024 (CCF A)</strong> &nbsp;&nbsp; <a href="https://arxiv.org/pdf/2310.10108.pdf">[Paper]</a> <a href="https://arxiv.org/abs/2310.10108">[Arxiv]</a> <a href="https://github.com/LehengTHU/Agent4Rec">[Code]</a></span>
+    <span style="font-size: 14px; "><strong>SIGIR, 2024</strong> &nbsp;&nbsp; <a href="https://arxiv.org/pdf/2310.10108.pdf">[Paper]</a> <a href="https://arxiv.org/abs/2310.10108">[Arxiv]</a> <a href="https://github.com/LehengTHU/Agent4Rec">[Code]</a></span>
       </p>
     </div>
   </div>
@@ -50,7 +50,7 @@ author_profile: true
       <p style="margin-bottom: 50px;"><strong>Empowering Collaborative Filtering with Principled Adversarial Contrastive Loss</strong><br>
       <span style="font-size: 14px;">An Zhang*, <strong>Leheng Sheng*</strong>, Zhibo Cai†, Xiang Wang, Tat-Seng Chua</span><br>
       <span style="font-size: 14px; font-family: 'Times New Roman';"><i>-- Exploring false negatives discovering via adversarial training.</i></span><br>
-    <span style="font-size: 14px; "><strong>NeurIPS, 2023 (CCF A)</strong> &nbsp;&nbsp; <a href="https://neurips.cc/virtual/2023/poster/71149">[Paper]</a> <a href="https://arxiv.org/abs/2310.18700">[Arxiv]</a> <a href="https://github.com/LehengTHU/AdvInfoNCE">[Code]</a></span>
+    <span style="font-size: 14px; "><strong>NeurIPS, 2023</strong> &nbsp;&nbsp; <a href="https://neurips.cc/virtual/2023/poster/71149">[Paper]</a> <a href="https://arxiv.org/abs/2310.18700">[Arxiv]</a> <a href="https://github.com/LehengTHU/AdvInfoNCE">[Code]</a></span>
       </p>
     </div>
   </div>
@@ -65,7 +65,7 @@ author_profile: true
       <p style="margin-bottom: 50px;"><strong>BrainNetFormer: Decoding Brain Cognitive States with Spatial-Temporal Cross Attention</strong><br>
       <span style="font-size: 14px;"><strong>Leheng Sheng</strong>, Wehan Wang, Zhiyi Shi, Jichao Zhan, Youyong Kong†</span><br>
       <span style="font-size: 14px; font-family: 'Times New Roman';"><i>-- "Subtasks" matter in human cognitive states identification.</i></span><br>
-    <span style="font-size: 14px; "><strong>ICASSP, 2023 (CCF B)</strong> &nbsp;&nbsp; <a href="https://ieeexplore.ieee.org/abstract/document/10094655">[Paper]</a></span>
+    <span style="font-size: 14px; "><strong>ICASSP, 2023</strong> &nbsp;&nbsp; <a href="https://ieeexplore.ieee.org/abstract/document/10094655">[Paper]</a></span>
     </p>
     </div>
   </div>
