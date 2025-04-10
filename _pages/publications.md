@@ -20,7 +20,7 @@ author_profile: true
       <p style="margin-bottom: 50px;"><strong>Language Representations Can be What Recommenders Need: Findings and Potentials</strong><br>
       <span style="font-size: 14px;"> <strong>Leheng Sheng</strong>, An Zhang†, Yi Zhang, Yuxin Chen, Xiang Wang, Tat-Seng Chua</span><br>
       <span style="font-size: 14px; font-family: 'Times New Roman';"><i>-- Towards the homomorphism between language and recommendation spaces!</i></span><br>
-    <span style="font-size: 14px; "><strong>ICLR, 2024</strong> &nbsp;&nbsp; <a href="https://arxiv.org/pdf/2407.05441.pdf">[Paper]</a> <a href="https://arxiv.org/pdf/2407.05441">[Arxiv]</a> <a href="https://github.com/LehengTHU/AlphaRec">[Code]</a></span>
+    <span style="font-size: 14px; "><strong>ICLR, 2024 (Oral)</strong> &nbsp;&nbsp; <a href="https://arxiv.org/pdf/2407.05441.pdf">[Paper]</a> <a href="https://arxiv.org/pdf/2407.05441">[Arxiv]</a> <a href="https://github.com/LehengTHU/AlphaRec">[Code]</a></span>
       </p>
     </div>
   </div>
