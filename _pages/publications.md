@@ -50,7 +50,7 @@ author_profile: true
       <p style="margin-bottom: 50px;"><strong>GeM: Gaussian Embeddings with Multi-hop Graph Transfer for Next POI Recommendation</strong><br>
       <span style="font-size: 14px;">Wenqian Mu,∗, <strong>Jiyuan Liu*</strong>, Yongshun Gong†, Ji Zhong, Wei Liu,
 Haoliang Sun, Xiushan Nie, Yilong Yin, Yu Zheng</span><br>
-      <span style="font-size: 14px; font-family: 'Times New Roman';"><i>-- ECombining the static transition graph of Points of Interest (POI) with dynamic Gaussian embeddings can enable more precise POI recommendations.</i></span><br>
+      <span style="font-size: 14px; font-family: 'Times New Roman';"><i>-- Combining the static transition graph of Points of Interest (POI) with dynamic Gaussian embeddings can enable more precise POI recommendations.</i></span><br>
     <span style="font-size: 14px; "><strong>Neural Network, 2025</strong> &nbsp;&nbsp; <a href="https://www.sciencedirect.com/science/article/pii/S0893608025001698">[Paper]</a>  <a href="https://github.com/Liujyuan/GEM">[Code]</a></span>
       </p>
     </div>
@@ -66,7 +66,7 @@ Haoliang Sun, Xiushan Nie, Yilong Yin, Yu Zheng</span><br>
       <p style="margin-bottom: 50px;"><strong>Unsupervised Hierarchical Topic Modeling via Anchor Word Clustering and Path Guidance</strong><br>
       <span style="font-size: 14px;"><strong>Jiyuan Liu*</strong>, Jiyuan Liu, Hegang Chen, Chunjiang Zhu, Yanghui Rao†</span><br>
       <span style="font-size: 14px; font-family: 'Times New Roman';"><i>-- Anchors can facilitate hierarchical topic modeling.</i></span><br>
-    <span style="font-size: 14px; "><strong>EMNLP findings, 2024</strong> &nbsp;&nbsp; <a href="https://aclanthology.org/2024.findings-emnlp.440/">[Paper]</a></span> <a href="https://github.com/Liujyuan/APHTM">[Code]</a></span>
+    <span style="font-size: 14px; "><strong>EMNLP findings, 2024</strong> &nbsp;&nbsp; <a href="https://aclanthology.org/2024.findings-emnlp.440/">[Paper]</a> <a href="https://github.com/Liujyuan/APHTM">[Code]</a></span>
     </p>
     </div>
   </div>
