@@ -22,7 +22,6 @@ redirect_from:
       <p style="margin-bottom: 50px;"><strong>Sun Yat-sen University</strong><br>
       2023.6 - 2026.12<br>
      School of Computer Science and Engineering, Guangdong Key Laboratory of Big Data Analysis and Processing<br>
-      Visiting Student<br>
       Supervised by Assoc. Prof. <a href="https://scholar.google.com.hk/citations?user=qg7gv20AAAAJ&hl=zh-CN&oi=ao">Yanghui Rao</a> <br>
       </p>
     </div>
