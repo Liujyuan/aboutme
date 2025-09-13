@@ -15,7 +15,7 @@ redirect_from:
   <div style="display: flex; align-items: flex-start;">
     <!-- 图片部分（1/3） -->
     <div style="flex: 1;">
-      <img src="../images/about/SYSU.png" style="width: 100%; height: auto;">
+      <img src="../images/about/sysu.png" style="width: 100%; height: auto;">
     </div>
     <!-- 文字部分（2/3） -->
     <div style="flex: 6; padding-left: 20px;">
@@ -31,7 +31,7 @@ redirect_from:
   <div style="display: flex; align-items: flex-start;">
     <!-- 图片部分（1/3） -->
     <div style="flex: 1;">
-      <img src="../images/about/SDU.png" style="width: 100%; height: auto;">
+      <img src="../images/about/sdu.png" style="width: 100%; height: auto;">
     </div>
     <!-- 文字部分（2/3） -->
     <div style="flex: 6; padding-left: 20px;">
