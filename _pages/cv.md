@@ -39,7 +39,7 @@ redirect_from:
       2019.9 - 2023.6<br>
       Software College <br>
       B.E. degree in Software Engineering (New Engineering Experimental Class <span style="color: #AC1F1F;">(Special class)</span>)<br>
-          Supervised by Assoc. Prof. <a href="https://scholar.google.com.hk/citations?user=WIHqungAAAAJ&hl=zh-CN&oi=ao/">Yongshun Gong</a> <br>
+          Supervised by Prof. <a href="https://scholar.google.com.hk/citations?user=WIHqungAAAAJ&hl=zh-CN&oi=ao/">Yongshun Gong</a> <br>
       <!-- GPA: 91.56/100 Rank: 27/300<br> -->
     </p>
     </div>
