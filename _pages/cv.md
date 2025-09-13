@@ -23,7 +23,7 @@ redirect_from:
       2023.6 - 2026.12<br>
      School of Computer Science and Engineering, Guangdong Key Laboratory of Big Data Analysis and Processing<br>
       Visiting Student<br>
-      Supervised by Prof. <a href="https://www.chuatatseng.com/">Yanghui Rao</a> and Dr. <a href="https://anzhang314.github.io/">An Zhang</a> <br>
+      Supervised by Assoc. Prof. <a href="https://scholar.google.com.hk/citations?user=qg7gv20AAAAJ&hl=zh-CN&oi=ao">Yanghui Rao</a> <br>
       </p>
     </div>
   </div>
@@ -37,8 +37,9 @@ redirect_from:
     <div style="flex: 6; padding-left: 20px;">
       <p style="margin-bottom: 50px;"><strong>Shandong University</strong><br>
       2019.9 - 2023.6<br>
-      Software College <span style="color: #AC1F1F;">(Honors College)</span><br>
-      B.E. degree in Software Engineering (New Engineering Experimental Class)<br>
+      Software College <br>
+      B.E. degree in Software Engineering (New Engineering Experimental Class <span style="color: #AC1F1F;">(Special class)</span>)<br>
+          Supervised by Assoc. Prof. <a href="https://scholar.google.com.hk/citations?user=WIHqungAAAAJ&hl=zh-CN&oi=ao/">Yongshun Gong</a> <br>
       <!-- GPA: 91.56/100 Rank: 27/300<br> -->
     </p>
     </div>
