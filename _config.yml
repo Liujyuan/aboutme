@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Leheng Sheng"
+title                    : "Jiyuan Liu"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://lehengthu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://liujyuan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "LehengTHU/LehengTHU.github.io"
+repository               : "liujyuan/LehengTHU.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Leheng Sheng"
+  name             : "Jiyuan Liu"
   avatar           : "me.png"
-  bio              : "First year PhD student at National University of Singapore"
+  bio              : "Third year master student at sysus"
   location         : "China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=j4ZcRakAAAAJ&hl=zh-CN&authuser=1"
-  email            : "lehengsheng0418@gmail.com"
+  googlescholar    : "https://scholar.google.com.hk/citations?user=JUtlq58AAAAJ&hl=zh-CN"
+  email            : "liujy563@edu.sysus.cn.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "LehengTHU"
+  github           : "liujyuan"
   google_plus      :
   keybase          :
   instagram        :
