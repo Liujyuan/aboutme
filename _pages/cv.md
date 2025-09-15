@@ -61,6 +61,7 @@ redirect_from:
 
 
 # Honors and Awards
+* first-class Academic Scholarship | School of Computer Science, Sun Yat-sen University | 2025 |
 * Second-class Academic Scholarship | School of Computer Science, Sun Yat-sen University | 2023 |
 * Outstanding Graduate | Software College, Shandong University | 2023 |
 * "Power of Role Models" Star of the Branch Award | Software College, Shandong University | 2022 |
