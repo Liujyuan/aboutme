@@ -15,9 +15,9 @@ Currently, my research interests focus on **knowledge mining and discovery, spec
 
 
 # News
-- [Oct. 2025] **Two** first-authored papers are accepted by **EMNLP 2025**. 🎉
+- [Aug. 2025] **Two** first-authored papers are accepted by **EMNLP 2025**. 🎉
 - [Mar. 2025] **One** co-first-authored paper is accepted by **Neural Network 2025**. 🎉
-- [Oct. 2024] **One** first-authored paper is accepted by **EMNLP 2024 findings**. 🎉
+- [Aug. 2024] **One** first-authored paper is accepted by **EMNLP 2024 findings**. 🎉
 
 
 <br><br><br>
