@@ -61,11 +61,21 @@ redirect_from:
 
 
 # Honors and Awards
-* first-class Academic Scholarship, School of Computer Science, Sun Yat-sen University | 2025 |
-* Second-class Academic Scholarship, School of Computer Science, Sun Yat-sen University | 2023 |
-* Outstanding Graduate, Software College, Shandong University | 2023 |
-* "Power of Role Models" Star of the Branch Award, Software College, Shandong University | 2022 |
-* Shandong University Five-a-Side Football Championship, Software College, Shandong University| 2022 |
-* Second-class Academic Scholarship, Software College, Shandong University | 2020, 2021 |
-* Second-class Cultural and Sports Scholarship, Software College, Shandong University | 2020 |
+<table>
+<tr><td style="text-align: left;width: 88%;flex-basis:auto"><p>First Class Academic Master's Scholarship, School of Computer Science, Sun Yat-sen University</p>
+</td><td style="text-align: right;width: 12%;flex-basis:auto"><p>(2025)</p>
+</td></tr>
+<tr><td style="text-align: left;width: 88%;flex-basis:auto"><p>Second Class Academic Master's Scholarship, School of Computer Science, Sun Yat-sen University</p>
+</td><td style="text-align: right;width: 10%;flex-basis:auto"><p>(2023)</p>
+</td></tr>
+<tr><td style="text-align: left;width: 88%;flex-basis:auto"><p>Outstanding Graduate of the School of Software Engineering, Shandong University</p>
+</td><td style="text-align: right;width: 12%;flex-basis:auto"><p>（2023)</p>
+</td></tr>
+<tr><td style="text-align: left;width: 88%;flex-basis:auto"><p>Second-Class Academic Scholarship, School of Software Engineering, Shandong University</p>
+</td><td style="text-align: right;width: 12%;flex-basis:auto"><p>(2020,2022)</p>
+</td></tr>
+<tr><td style="text-align: left;width: 88%;flex-basis:auto"><p>Second-Class Cultural and Sportsp School of Software Engineering, Shandong University</p>
+</td><td style="text-align: right;width: 12%;flex-basis:auto"><p>(2020)</p>
+</td></tr>
+</table>
  
