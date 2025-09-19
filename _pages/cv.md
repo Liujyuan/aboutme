@@ -62,20 +62,9 @@ redirect_from:
 
 # Honors and Awards
 <table>
-<tr><td style="text-align: left;width: 88%;flex-basis:auto"><p>First Class Academic Master's Scholarship, School of Computer Science, Sun Yat-sen University</p>
-</td><td style="text-align: right;width: 12%;flex-basis:auto"><p>(2025)</p>
-</td></tr>
-<tr><td style="text-align: left;width: 88%;flex-basis:auto"><p>Second Class Academic Master's Scholarship, School of Computer Science, Sun Yat-sen University</p>
-</td><td style="text-align: right;width: 10%;flex-basis:auto"><p>(2023)</p>
-</td></tr>
-<tr><td style="text-align: left;width: 88%;flex-basis:auto"><p>Outstanding Graduate of the School of Software Engineering, Shandong University</p>
-</td><td style="text-align: right;width: 12%;flex-basis:auto"><p>（2023)</p>
-</td></tr>
-<tr><td style="text-align: left;width: 88%;flex-basis:auto"><p>Second-Class Academic Scholarship, School of Software Engineering, Shandong University</p>
-</td><td style="text-align: right;width: 12%;flex-basis:auto"><p>(2020,2022)</p>
-</td></tr>
-<tr><td style="text-align: left;width: 88%;flex-basis:auto"><p>Second-Class Cultural and Sportsp School of Software Engineering, Shandong University</p>
-</td><td style="text-align: right;width: 12%;flex-basis:auto"><p>(2020)</p>
-</td></tr>
+<tr><td style="text-align: left;width: 88%;flex-basis:auto"><p>First Class Academic Master's Scholarship, School of Computer Science, Sun Yat-sen University</p></td><td style="text-align: right;width: 12%;flex-basis:auto"><p>(2025)</p></td></tr>
+<tr><td style="text-align: left;width: 88%;flex-basis:auto"><p>Second Class Academic Master's Scholarship, School of Computer Science, Sun Yat-sen University</p></td><td style="text-align: right;width: 12%;flex-basis:auto"><p>(2023)</p></td></tr>
+<tr><td style="text-align: left;width: 88%;flex-basis:auto"><p>Outstanding Graduate of the School of Software Engineering, Shandong University</p></td><td style="text-align: right;width: 12%;flex-basis:auto"><p>(2023)</p></td></tr>
+<tr><td style="text-align: left;width: 88%;flex-basis:auto"><p>Second-Class Academic Scholarship, School of Software Engineering, Shandong University</p></td><td style="text-align: right;width: 12%;flex-basis:auto"><p>(2020,2022)</p></td></tr>
+<tr><td style="text-align: left;width: 88%;flex-basis:auto"><p>Second-Class Cultural and Sports Scholarship, School of Software Engineering, Shandong University</p></td><td style="text-align: right;width: 12%;flex-basis:auto"><p>(2020)</p></td></tr>
 </table>
- 
