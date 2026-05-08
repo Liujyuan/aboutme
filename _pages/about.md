@@ -15,6 +15,7 @@ Currently, my research interests focus on **Data/Knowledge Mining, specifically 
 
 
 # News
+- [Apr. 2026] **one** second-authored paper are accepted by **ACL 2026**. 🎉
 - [Aug. 2025] **Two** first-authored papers are accepted by **EMNLP 2025**. 🎉
 - [Mar. 2025] **One** co-first-authored paper is accepted by **Neural Network 2025**. 🎉
 - [Aug. 2024] **One** first-authored paper is accepted by **EMNLP 2024 findings**. 🎉
