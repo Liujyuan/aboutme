@@ -21,8 +21,12 @@ Currently, my research interests focus on **Data/Knowledge Mining, specifically 
 - [Aug. 2024] **One** first-authored paper is accepted by **EMNLP 2024 findings**. 🎉
 
 
-<br><br><br>
+<br><br>
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=KQq7wmoOFK01AWtI-EgkopWeIANNwkKygR72ToCU_YU&co=2d90ad&cmo=e27b7b&cmn=ff9600'></script>
+<div style="text-align: center; margin-top: 30px;">
+  <script type="text/javascript" id="mapmyvisitors"
+    src="https://mapmyvisitors.com/map.js?d=yxhIRssPoipn0fFMtKwvp8zyMqCWiw8NZISKCrOiido&cl=ffffff&w=a">
+  </script>
+</div>
 <!-- {% include base_path %} -->
 
