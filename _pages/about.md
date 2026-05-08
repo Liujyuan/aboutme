@@ -25,7 +25,7 @@ Currently, my research interests focus on **Data/Knowledge Mining, specifically 
 
 <div style="text-align: center; margin-top: 30px;">
   <script type="text/javascript" id="mapmyvisitors"
-    src="https://mapmyvisitors.com/map.js?d=yxhIRssPoipn0fFMtKwvp8zyMqCWiw8NZISKCrOiido&cl=ffffff&w=a">
+    src="https://mapmyvisitors.com/map.js?d=yxhIRssPoipn0fFMtKwvp8zyMqCWiw8NZISKCrOiido&cl=ffffff&w=200">
   </script>
 </div>
 <!-- {% include base_path %} -->
