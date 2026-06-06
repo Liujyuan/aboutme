@@ -14,7 +14,7 @@ I received my M.S. degree from Sun Yat-sen University, where I was advised by As
 
 My current research interests include agentic large language models, particularly post-training and benchmarking, as well as data and knowledge mining.
 
-**Email:** liujy563@mail2.sysu.edu.cn
+**Email:** Ljiyuan@126.com
 
 
 # News
