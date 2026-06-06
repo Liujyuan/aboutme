@@ -9,55 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+<div style="display: flex; flex-direction: column; margin-bottom: 50px;"> <!-- 第一组图片和段落 --> <div style="display: flex; align-items: flex-start;"> <!-- 图片部分（1/3） --> <div style="flex: 1;"> <img src="../images/about/pku.png" style="width: 100%; height: auto;"> </div> <!-- 文字部分（2/3） --> <div style="flex: 6; padding-left: 20px;"> <p style="margin-bottom: 50px;"><strong>Peking University</strong><br> 2026.9 - Present<br> Institute of Computational Linguistics<br> Ph.D. student in Computer Science<br> </p> </div> </div> <!-- 第二组图片和段落 --> <div style="display: flex; align-items: flex-start;"> <!-- 图片部分（1/3） --> <div style="flex: 1;"> <img src="../images/about/sysu.png" style="width: 100%; height: auto;"> </div> <!-- 文字部分（2/3） --> <div style="flex: 6; padding-left: 20px;"> <p style="margin-bottom: 50px;"><strong>Sun Yat-sen University</strong><br> 2023.9 - 2026.6<br> School of Computer Science and Engineering, Guangdong Key Laboratory of Big Data Analysis and Processing<br> Supervised by Assoc. Prof. <a href="https://scholar.google.com.hk/citations?user=qg7gv20AAAAJ&hl=zh-CN&oi=ao">Yanghui Rao</a> <br> </p> </div> </div> <!-- 第三组图片和段落 --> <div style="display: flex; align-items: flex-start;"> <!-- 图片部分（1/3） --> <div style="flex: 1;"> <img src="../images/about/sdu.png" style="width: 100%; height: auto;"> </div> <!-- 文字部分（2/3） --> <div style="flex: 6; padding-left: 20px;"> <p style="margin-bottom: 50px;"><strong>Shandong University</strong><br> 2019.9 - 2023.6<br> Software College <br> B.E. degree in Software Engineering (New Engineering Experimental Class <span style="color: #AC1F1F;">(Special class)</span>)<br> Supervised by Prof. <a href="https://scholar.google.com.hk/citations?user=WIHqungAAAAJ&hl=zh-CN&oi=ao/">Yongshun Gong</a> <br> <!-- GPA: 91.56/100 Rank: 27/300<br> --> </p> </div> </div> <!-- 第四组图片和段落 --> <div style="display: flex; align-items: flex-start;"> <!-- 图片部分（1/3） --> <div style="flex: 1;"> <img src="../images/about/slyz.png" style="width: 100%; height: auto;"> </div> <!-- 文字部分（2/3） --> <div style="flex: 6; padding-left: 20px;"> <p style="margin-bottom: 50px;"><strong>Shengli No.1 Middle School of Dongying</strong><br> 2016.9 - 2019.6<br> </p> </div> </div> </div>
 
-<div style="display: flex; flex-direction: column; margin-bottom: 50px;">
-  <!-- 第二组图片和段落 -->
-  <div style="display: flex; align-items: flex-start;">
-    <!-- 图片部分（1/3） -->
-    <div style="flex: 1;">
-      <img src="../images/about/sysu.png" style="width: 100%; height: auto;">
-    </div>
-    <!-- 文字部分（2/3） -->
-    <div style="flex: 6; padding-left: 20px;">
-      <p style="margin-bottom: 50px;"><strong>Sun Yat-sen University</strong><br>
-      2023.9 - 2026.6 (Expected)<br>
-     School of Computer Science and Engineering, Guangdong Key Laboratory of Big Data Analysis and Processing<br>
-      Supervised by Assoc. Prof. <a href="https://scholar.google.com.hk/citations?user=qg7gv20AAAAJ&hl=zh-CN&oi=ao">Yanghui Rao</a> <br>
-      </p>
-    </div>
-  </div>
-  <!-- 第三组图片和段落 -->
-  <div style="display: flex; align-items: flex-start;">
-    <!-- 图片部分（1/3） -->
-    <div style="flex: 1;">
-      <img src="../images/about/sdu.png" style="width: 100%; height: auto;">
-    </div>
-    <!-- 文字部分（2/3） -->
-    <div style="flex: 6; padding-left: 20px;">
-      <p style="margin-bottom: 50px;"><strong>Shandong University</strong><br>
-      2019.9 - 2023.6<br>
-      Software College <br>
-      B.E. degree in Software Engineering (New Engineering Experimental Class <span style="color: #AC1F1F;">(Special class)</span>)<br>
-          Supervised by Prof. <a href="https://scholar.google.com.hk/citations?user=WIHqungAAAAJ&hl=zh-CN&oi=ao/">Yongshun Gong</a> <br>
-      <!-- GPA: 91.56/100 Rank: 27/300<br> -->
-    </p>
-    </div>
-  </div>
-  <!-- 第四组图片和段落 -->
-  <div style="display: flex; align-items: flex-start;">
-    <!-- 图片部分（1/3） -->
-    <div style="flex: 1;">
-      <img src="../images/about/slyz.png" style="width: 100%; height: auto;">
-    </div>
-    <!-- 文字部分（2/3） -->
-    <div style="flex: 6; padding-left: 20px;">
-      <p style="margin-bottom: 50px;"><strong>Shengli No.1 Middle School of Dongying</strong><br>
-      2016.9 - 2019.6<br>
-    </p>
-    </div>
-  </div>
-
-</div>
 
 
 # Honors and Awards
